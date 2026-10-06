@@ -1,0 +1,5 @@
+scrapy>=2.11
+mongoengine>=0.29
+pymongo[srv]>=4.6
+redis>=5.0
+python-dotenv>=1.0
